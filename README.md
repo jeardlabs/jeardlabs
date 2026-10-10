@@ -26,11 +26,11 @@ Our aim is straightforward: build technology that is useful, dependable and capa
 
 ### Engineering areas
 
-- **Applications & platforms** — web and mobile products, APIs, integrations and backend services
-- **Architecture & infrastructure** — databases, deployment, observability and scalable system design
-- **Data & intelligence** — data pipelines, analytics, research tooling and practical AI/ML integrations
-- **Digital health** — software workflows and platforms for healthcare delivery
-- **Engineering research** — technical writing, experiments and lessons from building systems
+- **Applications & platforms** - web and mobile products, APIs, integrations and backend services
+- **Architecture & infrastructure** - databases, deployment, observability and scalable system design
+- **Data & intelligence** - data pipelines, analytics, research tooling and practical AI/ML integrations
+- **Digital health** - software workflows and platforms for healthcare delivery
+- **Engineering research** - technical writing, experiments and lessons from building systems
 
 ### How we work
 
@@ -39,7 +39,7 @@ We favour clear requirements, deliberate technical choices and software that can
 ### Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,dart,flutter,react,nextjs,ts,postgres,redis,docker,git,linux&perline=12" alt="Python, Django, Dart, Flutter, React, Next.js, TypeScript, PostgreSQL, Redis, Docker, Git and Linux" />
+  <img src="https://skillicons.dev/icons?i=python,django,dart,flutter,react,nextjs,ts,postgres,redis,docker,git,linux&perline=12" alt="Python, Django, Dart, Flutter, React, Next.js, TypeScript, PostgreSQL, Redis, Docker, Git and Linux" /> & More
 </p>
 
 ### Projects & publications
